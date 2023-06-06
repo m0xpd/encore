@@ -15,8 +15,8 @@ These resources are described below.
 In addition to the filtering already suggested in the application circuit and supported by the PT2399's integral amplifiers, encore! adds a 2nd order 
 input filter and a 4th order output filter in Butterworth configuration. 
 
-Unlike most simple delay circuits, which are adjusted by potentiomenets, encore! places the key parameters of Delay Length, Repeats (i.e. the gain of the
-recursion/feedback loop) and Level of the 'Wet' signal under voltage control. 
+Unlike most simple delay circuits, which are adjusted by potentiometers, encore! places the key parameters of Delay Length, Repeats (i.e. the gain of the
+recursion/feedback loop) and Level of the 'Wet' signal under voltage control, allowing parameter adjustment both either/both potentiometers or CV inputs. 
 
 In the case of the Delay Length, this is achieved by a Voltage Controlled Resistor circuit. 
 
@@ -25,5 +25,7 @@ In the case of the other two parameters, this is achieved by Voltage Controlled 
 Most significantly, encore! allows the user to patch external functions into the feedback/recursion loop that builds the echo (seen in the red dashed box in 
 the block diagram above), using a loop send / return feature, which is mixed with the module's internal feedback path. This allows (e.g.) filters to be inserted 
 to allow selective echos, multiple delay units to be cross-patched to build up complex echo strutures, etc..
+
+
 
 You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) here and a Kicad project defining a front panel here.
