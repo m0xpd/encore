@@ -28,4 +28,4 @@ to allow selective echos, multiple delay units to be cross-patched to build up c
 
 
 
-You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) here and a Kicad project defining a front panel here.
+You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and a Kicad project defining a front panel here.
