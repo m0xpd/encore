@@ -16,7 +16,7 @@ In addition to the filtering already suggested in the application circuit and su
 input filter and a 4th order output filter in Butterworth configuration. 
 
 Unlike most simple PT2399 delay circuits, which are adjusted by potentiometers, encore! places the key parameters of Delay Length, Repeats (i.e. the gain 
-of the recursion/feedback loop) and Level of the 'Wet' signal under voltage control, allowing parameter adjustment both either/both potentiometers or CV inputs. 
+of the recursion/feedback loop) and Level of the 'Wet' signal under voltage control, allowing parameter adjustment by potentiometers and/or CV inputs. 
 
 In the case of the Delay Length, this is achieved by a Voltage Controlled Resistor circuit. 
 
