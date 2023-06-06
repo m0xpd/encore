@@ -6,7 +6,7 @@ This repository describes a delay module, developed for electronic synthesisers,
 A block diagram of  encore!  is shown below:
 
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/3b00fcf1-232f-4757-ac67-b9971f9ac160">
+<img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/3b00fcf1-232f-4757-ac67-b9971f9ac160">
 </p>  
 
 The module uses the PT2399 in an application environment derived from circuits in the [datasheet](http://www.princeton.com.tw/LinkClick.aspx?fileticket=XG0VYKi9QxE%3d&tabid=341&portalid=0&mid=828&language=en-US), but adds resources to enable patching and use in the Eurorack environment. 
