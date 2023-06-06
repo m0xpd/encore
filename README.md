@@ -5,7 +5,7 @@ This repository describes a simple echo effect, developed for electronic synthes
 
 A block diagram of the device is shown below:
 <p width=100%, align="center">
-<img width=25%, src="https://github.com/m0xpd/encore/assets/3152962/83c1f7bf-5f98-423b-ad24-887d6cabe967">
+<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/83c1f7bf-5f98-423b-ad24-887d6cabe967">
 </p>  
 
 
