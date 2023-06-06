@@ -26,6 +26,6 @@ Most significantly, encore! allows the user to patch external functions into the
 the block diagram above), using a loop send / return feature, which is mixed with the module's internal feedback path. This allows (e.g.) filters to be inserted 
 to allow selective echos, multiple delay units to be cross-patched to build up complex echo strutures, etc..
 
+encore! is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
 
-
-You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and a Kicad project defining a front panel here.
+You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tree/main/FrontPanel).
