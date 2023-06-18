@@ -33,7 +33,11 @@ Most significantly, encore! allows the user to patch external functions into the
 the block diagram above), using a loop send / return feature, which is mixed with the module's internal feedback path. This allows (e.g.) filters to be inserted 
 to allow selective echos, multiple delay units to be cross-patched to build up complex echo strutures, etc..
 
+**Licensing**
+
 encore! is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
+
+**Implementation**
 
 The system is implemented on two PCBs; one for the main electronics and one for the controls and interface components.
 
@@ -55,6 +59,5 @@ a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tr
 
 **Specifications**
 
-encore! is 12HP wide and extends 38mm behind the front panel (when a standard power header is included).
-
+encore! is 12HP wide and extends 38mm behind the front panel (when a standard Eurorack power header is inserted).
 encore! draws 36.5 mA from the +12V supply and 12.5 mA from the -12V supply.
