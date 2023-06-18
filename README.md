@@ -14,7 +14,7 @@ This repository describes a delay module, developed for electronic synthesisers,
 A block diagram of  encore!  is shown below:
 
 <p width=100%, align="center">
-<img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/3b00fcf1-232f-4757-ac67-b9971f9ac160">
+<img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/75f8fe05-5f2c-4cbb-b634-e9235c8e7670">
 </p>  
 
 The module uses the PT2399 in an application environment derived from circuits in the [datasheet](http://www.princeton.com.tw/LinkClick.aspx?fileticket=XG0VYKi9QxE%3d&tabid=341&portalid=0&mid=828&language=en-US), but adds resources to enable patching and use in the Eurorack environment. 
@@ -43,16 +43,18 @@ encore! is published under a Creative Commons BY-SA 4.0 [License](https://github
 The system is implemented on two PCBs; one for the main electronics and one for the controls and interface components.
 
 The schematic for the main PCB is linked by the graphic below below (click for the full-size schematic):
+
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/a8bc0e8a-b121-4ab7-bacd-4c6f2d5c4f6c">
+<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/1f244f95-ca57-4d0a-877b-78688ec595fc">
 </p>  
 
 I should have put a buffer between the PT2399 output filters and the input to the 'output filter' (which doesn't have a very high input impedance), but I 
 didn't have any spare op-amp stages. I can live with the loading interactions as they are!
 
 The schematic for the control PCB is linked below:
+
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/18645e0d-0a9b-40a5-b186-2d5e4e86c5f5">
+<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/e0986f40-e248-4756-a811-1461d0e43b70">
 </p>  
 
 The two PCBs are joined electrically and mechanically by the 'Board interface', implemented as two 20-way headers (JP1 and JP2 in the schematics, male on the
