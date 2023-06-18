@@ -46,6 +46,9 @@ The schematic for the main PCB is linked by the graphic below below (click for t
 <img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/a8bc0e8a-b121-4ab7-bacd-4c6f2d5c4f6c">
 </p>  
 
+I should have put a buffer between the PT2399 output filters and the input to the 'output filter' (which doesn't have a very high input impedance), but I 
+didn't have any spare op-amp stages. I can live with the loading interactions as they are!
+
 The schematic for the control PCB is linked below:
 <p width=100%, align="center">
 <img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/18645e0d-0a9b-40a5-b186-2d5e4e86c5f5">
