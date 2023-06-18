@@ -6,5 +6,5 @@ Work-around to correct the fault on the board is achieved by breaking a trace on
 'A' and 'B' :
 
 <p width=100%, align="center">
-<img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/511c31a3-e0cc-44a9-8919-5618a7e02a07">
+<img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/be8ce260-4b01-47f3-af4a-7b3d83a533fb">
 </p>  
