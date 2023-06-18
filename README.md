@@ -28,4 +28,20 @@ to allow selective echos, multiple delay units to be cross-patched to build up c
 
 encore! is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
 
-You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tree/main/FrontPanel).
+The system is implemented on two PCBs - one for the main electronics and one for the controls and interface components.
+
+The schematic for the main PCB is shown below:
+<p width=100%, align="center">
+<img width=50%, src="https://github.com/m0xpd/encore/assets/3152962/a8bc0e8a-b121-4ab7-bacd-4c6f2d5c4f6c">
+</p>  
+
+The schematic for the control PCB is shown below:
+<p width=100%, align="center">
+<img width=50%, src="https://github.com/m0xpd/encore/assets/3152962/18645e0d-0a9b-40a5-b186-2d5e4e86c5f5">
+</p>  
+
+The two PCBs are joined electrically and mechanically by two 20-way headers (JP1 and JP2 in the schematics, male on the main board and female on 
+the control board). A BoM for the main board is included.
+
+You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and 
+a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tree/main/FrontPanel).
