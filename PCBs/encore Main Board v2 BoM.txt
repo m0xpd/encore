@@ -1,0 +1,116 @@
+Partlist exported from /Users/pauldarlington/Documents/EAGLE/projects/Delay/encore Main Board v2.sch at 18/06/2023 05:13
+
+Part Value        Device               Package        Description                          MF MPN         OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+C1   0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C2   0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C3   22u          CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C4   22u          CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C5   100p         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C7   220n         C-EU050-024X044      C050-024X044   CAPACITOR, European symbol                                               33         C          
+C8   220n         C-EU050-024X044      C050-024X044   CAPACITOR, European symbol                                               33         C          
+C9   0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C10  1u           CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C11  10u          CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C12  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C13  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C14  100n         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C15  10n          C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C16  100n         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C17  10n          C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C18  100n         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C19  10n          C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C20  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C21  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C22  10u          CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C23  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C24  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C25  560p         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C26  1u           CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C27  4n7          C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C28  560p         C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C29  1u           CPOL-EUE2.5-5        E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C30  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C31  10n          C-EU025-025X050      C025-025X050   CAPACITOR, European symbol                                               65         C          
+C32  0.1u         C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+C33  5n6          C-EU050-025X075      C050-025X075   CAPACITOR, European symbol                                               29         C          
+D1   1N5817       SCHOTTKY-DIODEDO35-7 DO35-7         Schottky Diode                                                           3                     
+D2   1N5817       SCHOTTKY-DIODEDO35-7 DO35-7         Schottky Diode                                                           3                     
+D3   1N4148DO35-7 1N4148DO35-7         DO35-7         DIODE                                                                    58                    
+D4   1N4148DO35-7 1N4148DO35-7         DO35-7         DIODE                                                                    58                    
+IC1  TL074_       TL074_               DIL14          Generic Quad Op Amp                                                                            
+IC2  TL074_       TL074_               DIL14          Generic Quad Op Amp                                                                            
+IC3  TL074_       TL074_               DIL14          Generic Quad Op Amp                                                                            
+IC4  TL074_       TL074_               DIL14          Generic Quad Op Amp                                                                            
+IC5  PT2399       PT2399               DIP-16                                                                                                        
+IC6  LM13700N     LM13700N             DIL16          Dual OTA with buffers                                                                          
+IC7  78L05        78LXX                78LXX          VOLTAGE REGULATOR                                                        6                     
+JP1               PINHD-1X20           1X20           PIN HEADER                                                               6                     
+JP2               PINHD-1X20           1X20           PIN HEADER                                                               6                     
+Q1   2N3904       2N3904               TO92           NPN Transistor                                                           0                     
+Q2   2N3904       2N3904               TO92           NPN Transistor                                                           0                     
+Q3   2N3906       2N3906               TO92           PNP Transistor                                                           11                    
+Q4   2N3906       2N3906               TO92           PNP Transistor                                                           11                    
+R1   10           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R2   10           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R3   100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R4   100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R5   220k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R6   100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R7   100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R8   1M           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R9   2k           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R10  1M           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R11  2k7          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R12  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R13  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R14  2k2          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R15  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R16  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R17  1M           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R18  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R19  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R20  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R21  1M           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R22  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R23  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R24  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R25  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R26  270k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R27  33k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R28  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R29  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R30  82k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R31  15k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R32  220k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R33  1k           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R34  470k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R35  47k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R36  4k7          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R37  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R38  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R39  82k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R40  15k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R41  220k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R42  1k           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R43  470k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R44  47k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R45  4k7          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R46  1k           R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R47  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R48  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R49  19k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R50  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R51  2k2          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R52  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R53  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R54  10k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R55  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R56  2k7          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R57  150          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R58  33k          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R59  100k         R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R60  3k6          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R61  110          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R62  1k2          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+R63  330          R-EU_0204/7          0204/7         RESISTOR, European symbol                                                79         R          
+X2   2510-        2510-                PAK100/2500-10 3M (TM) Pak 100 4-Wall Header        3M 2510-6002UB 9838244    46F4725   0                     
