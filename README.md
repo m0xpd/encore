@@ -66,4 +66,5 @@ a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tr
 **Specifications**
 
 encore! is 12HP wide and extends 38mm behind the front panel (when a standard Eurorack power header is inserted).
+
 encore! draws 36.5 mA from the +12V supply and 12.5 mA from the -12V supply.
