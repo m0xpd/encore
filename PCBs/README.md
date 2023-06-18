@@ -4,4 +4,3 @@ The files are presented in Eagle format.
 
 Images of the main board on this repository are currently of a v1 protoype which included an error (a missing resistor), which is corrected in the design files.
 
-
