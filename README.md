@@ -32,9 +32,9 @@ to allow selective echos, multiple delay units to be cross-patched to build up c
 
 encore! is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
 
-The system is implemented on two PCBs - one for the main electronics and one for the controls and interface components.
+The system is implemented on two PCBs; one for the main electronics and one for the controls and interface components.
 
-The schematic for the main PCB is linked by the grachic below below (click for the full-size schematic):
+The schematic for the main PCB is linked by the graphic below below (click for the full-size schematic):
 <p width=100%, align="center">
 <img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/a8bc0e8a-b121-4ab7-bacd-4c6f2d5c4f6c">
 </p>  
