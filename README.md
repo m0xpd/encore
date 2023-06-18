@@ -7,6 +7,9 @@ An Echo/Delay Module for Eurorack, based on the PT2399
 
 This repository describes a delay module, developed for electronic synthesisers, in Eurorack format, based on the [Princeton Technology](http://www.princeton.com.tw/en-us/products.aspx) [PT2399](http://www.princeton.com.tw/LinkClick.aspx?fileticket=XG0VYKi9QxE%3d&tabid=341&portalid=0&mid=828&language=en-US) device. 
 
+
+**Functional Description**
+
 A block diagram of  encore!  is shown below:
 
 <p width=100%, align="center">
@@ -49,3 +52,9 @@ The two PCBs are joined electrically and mechanically by the 'Board interface', 
 
 You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and 
 a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tree/main/FrontPanel).
+
+**Specifications**
+
+encore! is 12HP wide and extends 38mm behind the front panel (when a standard power header is included).
+
+encore! draws 36.5 mA from the +12V supply and 12.5 mA from the -12V supply.
