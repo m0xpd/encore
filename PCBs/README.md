@@ -1,3 +1,5 @@
+# Printed Circuit Boards
+
 This folder contains details of the PCBs required to implement the encore! delay module.
 
 The files are presented in Eagle format.
