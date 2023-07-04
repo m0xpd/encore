@@ -1,10 +1,10 @@
 # Printed Circuit Boards
 
-This folder contains details of the PCBs required to implement the encore! delay module.
+This folder contains details of the two PCBs required to implement the encore! delay module.
 
-The files are presented in Eagle format.
+The PCB design files are presented in Eagle format.
 
-Below you see the unpopulated PCBs.
+Below you see a photo of the unpopulated PCBs.
 
 The photo shows (left to right) the Main Board Component Side (Top), Main Board Bottom, Control Board Component Side (Top), and Control Board Bottom. 
 
@@ -42,6 +42,13 @@ SK1:SK10 are [Thonkiconn](https://www.thonk.co.uk/shop/thonkiconn/) 3.5mm jack s
 The combination of the alpha potentiometers and the Thonkiconn jacks gives the correct spacing between the Control Board and the Front Panel.
 
 VR1 and VR5 are Song Huei 9mm Trim Pots, such as [these](https://www.thonk.co.uk/shop/ttpots/)
+
+## Control Board 5V Power
+
+5V is required on the Control Board for the derivation of control voltages via VR2:4 and the limiting of externally applied CVs via the Schottky diodes D1:6.
+
+I did not want to use the PT2399's 5V supply in this application and found it convenient to generate 5V using a 78L05 regulator ("IC1") from the 12V rail, 
+even though a much simpler circuit could have been used. Laziness rules! 
 
 ## Board Interface
 
