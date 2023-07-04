@@ -4,6 +4,10 @@ This folder contains details of the PCBs required to implement the encore! delay
 
 The files are presented in Eagle format.
 
+Below you see the unpopulated PCBs.
+
+The photo shows (left to right) the Main Board Component Side (Top), Main Board Bottom, Control Board Component Side (Top), and Control Board Bottom. 
+
 <p width=100%, align="center">
 <img width=95%, src="https://github.com/m0xpd/encore/assets/3152962/c6081ed0-4437-4559-802b-bfd7dc983705">
 </p>  
