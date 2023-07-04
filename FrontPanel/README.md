@@ -10,6 +10,6 @@ The panel you see above was manufactured by [JLCPCB](https://jlcpcb.com/) (usual
 It is aluminium and I specified black PCB, with white top screen (for the lettering). Other lines and annotation on the front 
 are on the front mask layer.
 
-There is a small text area on the bottom screen (the 'back' of the panel), which -importantly - includes a locator for the order 
+There is a small text area on the bottom screen (the 'back' of the panel), which - importantly - includes a locator for the order 
 number. Remember to select 'specify position' for the order number if you order from JLCPCB, otherwise they might place a meaningless 
 number right over the front of your nice panel!
