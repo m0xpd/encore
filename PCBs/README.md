@@ -39,12 +39,11 @@ VR2 VR3 and VR4 are 9mm Vertical Alpha potentiometers [such as these](https://ww
 
 SK1:SK10 are [Thonkiconn](https://www.thonk.co.uk/shop/thonkiconn/) 3.5mm jack sockets
 
-The combination of the alpha potentiometers and the Thonkiconn jackes gives the correct spacing between the Control Board and the Front Panel.
+The combination of the alpha potentiometers and the Thonkiconn jacks gives the correct spacing between the Control Board and the Front Panel.
 
 VR1 and VR5 are Song Huei 9mm Trim Pots, such as [these](https://www.thonk.co.uk/shop/ttpots/)
 
 ## Board Interface
 
 Electrical and Mechanical Interface between the Main and Control Boards is achieved using 20-way 0.1-inch headers (JP1 & JP2). These are preferably a 
-male component on the Main Board and a female component on the Control Board. I find it convenient to buy 40-way headers and cut down to size (although 
-it does leave some waste in the case of the female).
+male component on the Main Board and a female component on the Control Board. I find it convenient to buy packs of 40-way headers and cut down to size.
