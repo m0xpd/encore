@@ -8,6 +8,8 @@ The files are presented in Eagle format.
 
 Images of the main board on this repository are currently of a v1 protoype which included an error (a missing resistor), which is corrected in the design files.
 
+** Main Board Capacitors
+
 The [BoM](https://github.com/m0xpd/encore/blob/main/PCBs/encore%20Main%20Board%20v2%20BoM.txt) is presented in the standard EAGLE format, which is verbose and not always helpful. A description of the capacitors used on the main board is given 
 below (see the [schematic](https://user-images.githubusercontent.com/3152962/246648781-e0986f40-e248-4756-a811-1461d0e43b70.png) for component idents).
 
