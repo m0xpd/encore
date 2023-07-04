@@ -13,3 +13,7 @@ are on the front mask layer.
 There is a small text area on the bottom screen (the 'back' of the panel), which - importantly - includes a locator for the order 
 number. Remember to select 'specify position' for the order number if you order from JLCPCB, otherwise they might place a meaningless 
 number right over the front of your nice panel!
+
+[JLCPCB](https://jlcpcb.com/) do a really good job of making the PCBs and (particularly) these front panels BUT there has been a >350% price increase on the panels since 
+the last batch they made for me (for the [SubHarmonic Generator](https://github.com/m0xpd/SubHarmonics) ). If you want pretty, black panels, I 
+guess you have to pay. 
