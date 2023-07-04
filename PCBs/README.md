@@ -20,7 +20,7 @@ De-coupling capacitors C1, C2, C12, C13, C9, C20, C21 and modulate/de-modulate c
 
 Filter / coupling capacitors (C5, C7, C8, C14, C15, C16, C17, C18, C19, C25, C27, C28, C31, C33) are ceramics (for pF values), or multi-layer ceramics 
 (for nF values) with 0.1-inch pitch. Some of these also have value 0.1uF, but they are differentiated from the 0.2-inch pitch parts in the BoM by being quoted 
-as having value '100nF'.
+as having value '100n'.
 
 Polarized capacitors with 0.1-inch pitch are used for power supply smoothing (C3, C4, C10, C11), smoothing the mid-rail voltage of the PT2399 (C22) and 
 d.c. blocking (C26, C29).
