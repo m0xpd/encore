@@ -6,8 +6,7 @@ An Echo/Delay Module for Eurorack, based on the PT2399
 <img width=50%, src="https://github.com/m0xpd/encore/assets/3152962/02c193a0-35ad-40d9-97cf-0aa640a7b5b3">
 </p>
 
-This repository describes a delay module, developed for electronic synthesisers, in Eurorack format, based on the[LF398](https://www.ti.com/lit/gpn/lf398-n)) device. 
-
+This repository describes a delay module, developed for electronic synthesisers, in Eurorack format, based on the [Princeton Technology](http://www.princeton.com.tw/en-us/products.aspx) [PT2399](http://www.princeton.com.tw/LinkClick.aspx?fileticket=XG0VYKi9QxE%3d&tabid=341&portalid=0&mid=828&language=en-US) device. 
 
 **Functional Description**
 
