@@ -67,6 +67,7 @@ a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tr
 
 **Specifications**
 
-S&H  is 6HP wide and extends xxmm behind the front panel (when a standard Eurorack power header is inserted).
+encore! is 12HP wide and extends 38mm behind the front panel (when a standard Eurorack power header is inserted).
 
-S&H draws xx mA from the +12V supply and xx mA from the -12V supply.
+encore! draws 36.5 mA from the +12V supply and 12.5 mA from the -12V supply.
+
