@@ -42,10 +42,25 @@ S&H is published under a Creative Commons BY-SA 4.0 [License](https://github.com
 
 **Implementation**
 
-The system is implemented on a single PCB.
+The system is implemented on two PCBs; one for the main electronics and one for the controls and interface components.
 
-The schematic for the PCB is linked by the graphic below below (click for the full-size schematic):
+The schematic for the main PCB is linked by the graphic below below (click for the full-size schematic):
 
+<p width=100%, align="center">
+<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/1f244f95-ca57-4d0a-877b-78688ec595fc">
+</p>  
+
+I should have put a buffer between the PT2399 output filters and the input to the 'output filter' (which doesn't have a very high input impedance), but I 
+didn't have any spare op-amp stages. I can live with the loading interactions as they are!
+
+The schematic for the control PCB is linked below:
+
+<p width=100%, align="center">
+<img width=75%, src="https://github.com/m0xpd/encore/assets/3152962/e0986f40-e248-4756-a811-1461d0e43b70">
+</p>  
+
+The two PCBs are joined electrically and mechanically by the 'Board interface', implemented as two 20-way headers (JP1 and JP2 in the schematics, male on the
+ main board and female on the control board). A BoM for the main board is included.
 
 You will find full details of the two printed circuit boards (in files for the Eagle Layout Editor) [here](https://github.com/m0xpd/encore/tree/main/PCBs) and 
 a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tree/main/FrontPanel).
