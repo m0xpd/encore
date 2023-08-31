@@ -37,7 +37,7 @@ to allow selective echos, multiple delay units to be cross-patched to build up c
 
 **Licensing**
 
-S&H is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
+encore! is published under a Creative Commons BY-SA 4.0 [License](https://github.com/m0xpd/encore/blob/main/LICENSE.txt)
 
 **Implementation**
 
