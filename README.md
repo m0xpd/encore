@@ -68,9 +68,9 @@ a Kicad project defining a front panel [here](https://github.com/m0xpd/encore/tr
 
 encore! is 12HP wide and extends 38mm behind the front panel (when a standard Eurorack power header is inserted).
 
-Caution: I've just been reminded (thanks Alex) that the PCBs of the present design overhang the loeft hand edge of the front panel by approximately 1mm. This 
-is an error on my part, which I'll correcvt if ever there's a new 'edition' of encore!. Multiple instances of encore! sit next to each other in a rack with 
-no worries, but don't try to sit encore next to a neighbour on its left with 'sharp elbows'!
+Caution: I've just been reminded (thanks Alex) that the PCBs of the present design overhang the left hand edge of the front panel by approximately 1mm. This 
+is an error on my part, which I'll correct if ever there's a new 'edition' of encore! Multiple instances of encore! sit next to each other in a rack with 
+no worries, but don't try to sit encore! next to a neighbour on its left who has 'sharp elbows'!
 
 encore! draws 36.5 mA from the +12V supply and 12.5 mA from the -12V supply.
 
